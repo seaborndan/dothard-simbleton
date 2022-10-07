@@ -1,0 +1,13 @@
+.business {
+  display: flex;
+  width: 30%;
+  flex-flow: column wrap;
+  border-bottom: 1px solid black;
+  
+}
+
+.business__address {
+  display: flex;
+  flex-wrap: wrap;
+  width:50%;
+}
